@@ -5,6 +5,7 @@ on this their battle field
 
 Form the lines
 <<<<<<< HEAD
+<<<<<<< HEAD
 Shield by shield
 
 <<<<<<< HEAD
@@ -12,6 +13,9 @@ Feo
 =======
 Some content here
 >>>>>>> 80fd5c02b6d9623d5aad5a9154d050fc6de3a488
+=======
+Shield by shield
+>>>>>>> parent of 80fd5c0 (One more line to the song)
 =======
 Shield by shield
 >>>>>>> parent of 80fd5c0 (One more line to the song)
