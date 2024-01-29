@@ -6,4 +6,8 @@ on this their battle field
 Form the lines
 Shield by shield
 
+<<<<<<< HEAD
 Feo
+=======
+Some content here
+>>>>>>> 80fd5c02b6d9623d5aad5a9154d050fc6de3a488
